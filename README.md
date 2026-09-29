@@ -9,6 +9,6 @@
 
 ### 변수 선언
 ```python
-name = "Alice"
-age = 25
+name = "kimhodong"
+age = 20
 score = 95.5
