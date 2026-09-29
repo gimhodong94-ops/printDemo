@@ -1,7 +1,7 @@
 # 변수 선언
-name = "홍길동"
-age = 1000
-score = 95.5
+name = "김호동"
+age = 20
+score = 99.9
 
 # 1. 기본 출력
 print("Hello, Python!")
@@ -28,7 +28,7 @@ print("Hello", end=" ")
 print("World!")
 
 # 8. sep 옵션 (기본값은 공백 ' ')
-print("2025", "09", "23", sep="-")
+print("2026", "09", "29", sep="-")
 
 # 9. 딕셔너리/리스트 같이 출력
 data = {"name": name, "age": age, "score": score}
