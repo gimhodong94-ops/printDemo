@@ -1,5 +1,5 @@
 # 폴더
-venv/
+.venv/
 .vscode/
 
 # 파일
